@@ -1,4 +1,4 @@
-import { PluginSystem } from '../../../server/systems/plugins';
+import { PluginSystem } from '@AthenaServer/systems/plugins';
 import { MailService } from './src/mailer';
 
 const PLUGIN_NAME = 'Mail Service';

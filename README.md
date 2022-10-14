@@ -1,6 +1,6 @@
 # Athena Plugin - Mail Service
 
-An email service plugin for the Athena Framework compatible with `3.9.0` of the [Athena Framework](https://athenaframework.com/).
+An email service plugin for the Athena Framework compatible with `4.0.0` of the [Athena Framework](https://athenaframework.com/).
 
 ## Installation
 
@@ -16,13 +16,14 @@ cd src/core/plugins
 **SSH**
 
 ```
-git clone git@github.com:Stuyk/athena-plugin-mail-service.git
+git clone git@github.com:Athena-Roleplay-Framework/athena-plugin-mail-service.git
 ```
 
 **HTTPS**
 ```
-git clone https://github.com/Stuyk/athena-plugin-mail-service
+git clone https://github.com/Athena-Roleplay-Framework/athena-plugin-mail-service
 ```
+
 4. `npm install nodemailer`
 5. You need a domain (.com, .org, whatever) registered under you.
 6. Utilize https://sendgrid.com/
